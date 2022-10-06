@@ -1,0 +1,3 @@
+tensorflow
+yolov4
+opencv-python
